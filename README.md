@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ajala Joshua
+- 👋 Hi, I’m Joshua
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to grow my knowledge on data related topics
